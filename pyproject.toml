@@ -26,6 +26,8 @@ dependencies = [
     "anndata",
     "scanpy",
     "scikit-learn",
+    "seaborn",
+    "matplotlib",
 ]
 
 # setuptools

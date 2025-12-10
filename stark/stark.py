@@ -7,7 +7,7 @@ import sklearn.metrics
 import sklearn.gaussian_process.kernels as kernels
 import matplotlib.pyplot as plt
 
-import utilities
+from . import utilities
 
 
 

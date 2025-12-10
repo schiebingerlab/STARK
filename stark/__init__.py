@@ -1,4 +1,5 @@
-# from .stark import test
+from .stark import *
+
 
 # Define version here
 __version__ = '0.1.0'
